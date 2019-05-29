@@ -10,6 +10,9 @@ h4 {
 .wind-stat {
   width: 100%;
 }
+.table-stats td {
+  padding: .4rem;
+}
 .bg-8 {
   background-color: #FD28FC;
 }
@@ -27,4 +30,14 @@ h4 {
 }
 .bg-3 {
   background-color: #6CF6EB;
+}
+.legend {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+}
+.legend div {
+  padding: .2rem .5rem;
 }

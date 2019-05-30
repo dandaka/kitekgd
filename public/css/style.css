@@ -47,3 +47,6 @@ h4 {
 .legend div {
   padding: .2rem .5rem;
 }
+span.spot {
+  white-space: nowrap;
+}

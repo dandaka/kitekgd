@@ -50,3 +50,7 @@ h4 {
 span.spot {
   white-space: nowrap;
 }
+.iframe-weatherlink {
+  width: 100%;
+  height: 200px;
+}
